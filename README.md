@@ -28,6 +28,7 @@ This project showcases my educational background, skills, and contact informatio
 ---
 # Demo
 ![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
 
 ## 📦 Installation
 
