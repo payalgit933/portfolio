@@ -6,6 +6,8 @@ Welcome to my personal portfolio website built with **React** and **Tailwind CSS
 This project showcases my educational background, skills, and contact information in a clean and responsive design.
 
 ---
+## Tech Stack
+React.js / Flask / CSS / Tailwind 
 
 ## 🚀 Features
 
